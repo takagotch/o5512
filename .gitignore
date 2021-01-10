@@ -1,0 +1,10 @@
+.DS_Store
+tmp/
+build/
+node_modules/
+server/storage/
+public/dist/
+common/config.js
+package-lock.json
+npm-debug.log
+yarn-error.log
